@@ -1,0 +1,1 @@
+cmd_/media/sf_Descargas/taller3-drivers-alumnos/letras123/letras123.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-23-generic-pae/scripts/module-common.lds --build-id  -o /media/sf_Descargas/taller3-drivers-alumnos/letras123/letras123.ko /media/sf_Descargas/taller3-drivers-alumnos/letras123/letras123.o /media/sf_Descargas/taller3-drivers-alumnos/letras123/letras123.mod.o
